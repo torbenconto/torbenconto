@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Golang, React, Typescript, Rust**
+- 🔭 I’m currently working on **Nothing, but looking for ideas**
 
 - 🌱 I’m currently learning **Different systems programming languages, practices, and techniques.**
 

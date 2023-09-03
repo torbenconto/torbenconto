@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Nothing, but looking for ideas**
+- 🔭 I’m currently working on **Zeus, A golang string manipulation an evaluation library for learning purposes**
 
 - 🌱 I’m currently learning **Different systems programming languages, practices, and techniques.**
 
@@ -102,7 +102,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Last Edited on: 9/1/2023
+Last Edited on: 9/2/2023
 <!---
 torbenconto/torbenconto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

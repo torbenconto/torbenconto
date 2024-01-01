@@ -27,7 +27,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Zeus, A golang string manipulation an evaluation library for learning purposes**
+- 🔭 I’m currently working on **My Porfolio**
 
 - 🌱 I’m currently learning **Different systems programming languages, practices, and techniques.**
 

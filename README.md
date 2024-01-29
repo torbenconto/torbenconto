@@ -11,9 +11,6 @@ I'm Torben, a 14 year old developer. I'm passionate about programming and comput
 ## Projects
 Here are some of my notable projects:
 - [plutus](https://github.com/torbenconto/plutus): A stock data library written in golang.
-- [Project 2](link-to-project-2): Brief description.
-- [Project 3](link-to-project-3): Brief description.
-- ...
 
 ## Connect with Me
 - [Twitter](https://twitter.com/tconto_tech)

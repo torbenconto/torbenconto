@@ -1,5 +1,5 @@
 ## About Me
-I'm Torben, a 14 year old developer with 5+ years of development experience. I'm passionate about programming and computers and enjoy playing football and video games.
+I'm Torben, a 15 year old developer with 6+ years of development experience. I'm passionate about programming and computers and enjoy playing football and video games.
 
 ## Skills
 - Golang

@@ -8,6 +8,8 @@ I'm Torben, a developer with 3+ years of development experience. I'm passionate 
 - Web development
 - Feature development
 
+![image](https://github.com/user-attachments/assets/f7f2d355-1307-4bba-81a0-219ebe27412b)
+
 ## Projects
 Here are some of my notable projects:
 - [plutus](https://github.com/torbenconto/plutus): A stock data library written in golang.

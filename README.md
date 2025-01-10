@@ -13,9 +13,10 @@ I'm Torben, a developer with 3+ years of development experience. I'm passionate 
 ## Projects
 Here are some of my notable projects:
 - [plutus](https://github.com/torbenconto/plutus): A stock data library written in golang.
+- [bambulabs_api](https://github.com/torbenconto/bambulabs_api): A golang library for communicating with bambulabs printers.
 
 ## Connect with Me
-- [Twitter](https://twitter.com/tconto_tech)
-- [Personal Website](https://tconto.tech)
+- [Personal Website](https://tconto.dev)
+- [Email](mailto:torben@tconto.dev)
 
 Feel free to explore my repositories and reach out to me! 😊

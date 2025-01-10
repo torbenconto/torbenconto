@@ -1,7 +1,7 @@
 ## About Me
 I'm Torben, a developer with 3+ years of development experience. I'm passionate about programming and computers and enjoy playing football and video games.
 
-![image](https://github.com/user-attachments/assets/782776a1-b0a4-4ed2-8764-510837af3b4b)
+![image](https://github.com/user-attachments/assets/d06739c9-5535-46b2-b34f-108441044963)
 
 ## Skills
 - Golang

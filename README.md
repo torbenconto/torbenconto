@@ -9,9 +9,6 @@ I'm Torben, a developer with 3+ years of development experience. I'm passionate 
 - Systems development
 - Web development
 - Feature development
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torbenconto&layout=donut)
-
 
 ## Projects
 Here are some of my notable projects:

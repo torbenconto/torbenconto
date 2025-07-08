@@ -1,7 +1,7 @@
 ## About Me
 I'm Torben, a developer with 3+ years of development experience. I'm passionate about programming and computers and enjoy playing football and video games.
 
-![image](https://github.com/user-attachments/assets/d06739c9-5535-46b2-b34f-108441044963)
+![torbenconto's Stats](https://github-readme-stats.vercel.app/api?username=torbenconto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Skills
 - Golang

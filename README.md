@@ -5,7 +5,6 @@ I'm Torben, a student developer with 4+ years of development experience. I'm exp
 ![torbenconto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=torbenconto&theme=vue-dark&hide_border=true)
 
 ## Connect with Me
-- [Personal Website](https://tconto.dev)
 - [Email](mailto:torbenmconto@gmail.com)
 
 Feel free to explore my repositories and reach out to me! 😊
